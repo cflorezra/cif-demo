@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/content/content" mode="update"/>
+    <filter root="/content/dam/content" mode="update"/>
+    <filter root="/apps/apps/config" mode="update"/>
+    <filter root="/etc/map.publish" mode="update"/>
+    <filter root="/var/commerce/products" mode="update"/>
+</workspaceFilter>

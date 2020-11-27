@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:allowedTemplates="[/conf/conf/settings/wcm/templates/root-page]"
+        cq:conf="/conf/conf"
+        cq:redirectTarget="/content/content/us/en"
+        cq:template="/conf/conf/settings/wcm/templates/root-page"
+        cq:deviceGroups="[mobile/groups/responsive]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="cif-demo"
+        sling:resourceType="core/wcm/components/page/v2/page"/>
+    <language-masters/>
+    <us/>
+</jcr:root>
